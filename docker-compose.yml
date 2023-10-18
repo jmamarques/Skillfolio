@@ -1,0 +1,11 @@
+version: '3'
+services:
+  backend:
+    image: your-backend-image
+    ports:
+      - "8080:8080" # Adjust the port as needed
+
+  frontend:
+    image: your-frontend-image
+    ports:
+      - "8081:4200" # Adjust the port as needed
