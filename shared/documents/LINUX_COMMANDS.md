@@ -1,0 +1,113 @@
+### [Top 50 Linux Commands You Must Know as a Regular User](https://www.digitalocean.com/community/tutorials/linux-commands)
+- **ls** - The most frequently used command in Linux to list directories
+- **pwd** - Print working directory command in Linux
+- **cd** - Linux command to navigate through directories
+- **mkdir** - Command used to create directories in Linux
+- **mv** - Move or rename files in Linux
+- **cp** - Similar usage as mv but for copying files in Linux
+- **rm** - Delete files or directories
+- **touch** - Create blank/empty files
+- **ln** - Create symbolic links (shortcuts) to other files
+- **cat** - Display file contents on the terminal
+- **clear** - Clear the terminal display
+- **echo** - Print any text that follows the command
+- **less** - Linux command to display paged outputs in the terminal
+- **man** - Access manual pages for all Linux commands
+- **uname** - Linux command to get basic information about the OS
+- **whoami** - Get the active username
+- **tar** - Command to extract and compress files in Linux
+- **grep** - Search for a string within an output
+- **head** - Return the specified number of lines from the top
+- **tail** - Return the specified number of lines from the bottom
+- **diff** - Find the difference between two files
+- **cmp** - Allows you to check if two files are identical
+- **comm** - Combines the functionality of diff and cmp
+- **sort** - Linux command to sort the content of a file while outputting
+- **export** - Export environment variables in Linux
+- **zip** - Zip files in Linux
+- **unzip** - Unzip files in Linux
+- **ssh** - Secure Shell command in Linux
+- **service** - Linux command to start and stop services
+- **ps** - Display active processes
+- **kill** and killall - Kill active processes by process ID or name
+- **df** - Display disk filesystem information
+- **mount** - Mount file systems in Linux
+- **chmod** - Command to change file permissions
+- **chown** - Command for granting ownership of files or folders
+- **ifconfig** - Display network interfaces and IP addresses
+- **traceroute** - Trace all the network hops to reach the destination
+- **wget** - Direct download files from the internet
+- **ufw** - Firewall command
+- **iptables** - Base firewall for all other firewall utilities to interface with
+- **apt**, pacman, yum, rpm - Package managers depending on the distro
+- **sudo** - Command to escalate privileges in Linux
+- **cal** - View a command-line calendar
+- **alias** - Create custom shortcuts for your regularly used commands
+- **dd** - Majorly used for creating bootable USB sticks
+- **whereis** - Locate the binary, source, and manual pages for a command
+- **whatis** - Find what a command is used for
+- **top** - View active processes live with their system usage
+- **useradd** and usermod - Add new user or change existing users data
+- **passwd** - Create or update passwords for existing users
+
+### [The 60 Most Commonly Used Linux Commands](https://www.hostinger.com/tutorials/linux-commands)
+- **ls** – lists a directory’s content.
+- **pwd** – shows the current working directory’s path.
+- **cd** – changes the working directory.
+- **mkdir** – creates a new directory.
+- **rmdir** – removes a folder or path.
+- **rm** – deletes a file.
+- **cp** – copies files and directories, including their content.
+- **mv** – moves or renames files and directories.
+- **touch** – creates a new empty file.
+- **file** – checks a file’s type.
+- **zip** and unzip – creates and extracts a ZIP archive.
+- **tar** – archives files without compression in a TAR format.
+- **nano**, vi, and jed – edits a file with a text editor.
+- **cat** – lists, combines, and writes a file’s content as a standard output.
+- **grep** – searches a string within a file.
+- **sed** – finds, replaces, or deletes patterns in a file.
+- **head** – displays a file’s first ten lines.
+- **tail** – prints a file’s last ten lines.
+- **awk** – finds and manipulates patterns in a file.
+- **sort** – reorders a file’s content.
+- **cut** – sections and prints lines from a file.
+- **diff** – compares two files’ content and their differences.
+- **tee** – prints command outputs in Terminal and a file.
+- **locate** – finds files in a system’s database.
+- **find** – outputs a file or folder’s location.
+- **sudo** – runs a command as a superuser.
+- **su** – runs programs in the current shell as another user.
+- **chmod** – modifies a file’s read, write, and execute permissions.
+- **chown** – changes a file, directory, or symbolic link’s ownership.
+- **useradd** and userdel – creates and removes a user account.
+- **df** – displays the system’s overall disk space usage.
+- **du** – checks a file or directory’s storage consumption.
+- **top** – displays running processes and the system’s resource usage.
+- **htop** – works like top but with an interactive user interface.
+- **ps** – creates a snapshot of all running processes.
+- **uname** – prints information about your machine’s kernel, name, and hardware.
+- **hostname** – shows your system’s hostname.
+- **time** – calculates commands’ execution time.
+- **systemctl** – manages system services.
+- **watch** – runs another command continuously.
+- **jobs** – displays a shell’s running processes with their statuses.
+- **kill** – terminates a running process.
+- **shutdown** – turns off or restarts the system.
+- **ping** – checks the system’s network connectivity.
+- **wget** – downloads files from a URL.
+- **curl** – transmits data between servers using URLs.
+- **scp** – securely copies files or directories to another system.
+- **rsync** – synchronizes content between directories or machines.
+- **Ifconfig** – displays the system’s network interfaces and their configurations.
+- **netstat** – shows the system’s network information, like routing and sockets.
+- **traceroute** – tracks a packet’s hops to its destination.
+- **nslookup** – queries a domain’s IP address and vice versa.
+- **dig** – displays DNS information, including record types.
+- **history** – lists previously run commands.
+- **man** – shows a command’s manual.
+- **echo** – prints a message as a standard output.
+- **ln** – links files or directories.
+- **alias and unalias** – sets and removes an alias for a file or command.
+- **cal** – displays a calendar in Terminal.
+- **apt-get** – manages Debian-based distros package libraries.
